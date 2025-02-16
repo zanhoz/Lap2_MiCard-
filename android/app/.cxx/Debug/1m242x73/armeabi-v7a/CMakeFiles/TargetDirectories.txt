@@ -1,0 +1,2 @@
+D:/lap2_card_hoz/android/app/.cxx/Debug/1m242x73/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/lap2_card_hoz/android/app/.cxx/Debug/1m242x73/armeabi-v7a/CMakeFiles/rebuild_cache.dir
